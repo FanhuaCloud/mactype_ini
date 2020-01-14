@@ -1,2 +1,2 @@
 # mactype_ini
-自用ini配置
+自用Mactype 配置
